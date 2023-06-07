@@ -1,0 +1,18 @@
+{
+    "eslint.validate": [
+      "javascript",
+      "javascriptvue",
+      "vue"
+    ],
+    "eslint.format.enable": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "workbench.colorTheme": "SynthWave '84",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontWeight": "400",
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+  }
